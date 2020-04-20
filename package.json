@@ -25,6 +25,11 @@
     "url": "https://github.com/includable/react-native-email-link/issues"
   },
   "peerDependencies": {
-    "react-native": ">=0.60.0"
+    "react-native": ">=0.40.0"
+  },
+  "rnpm": {
+    "android": {
+      "sourceDir": "./android"
+    }
   }
 }
